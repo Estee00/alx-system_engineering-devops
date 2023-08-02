@@ -1,2 +1,2 @@
-ln -s /bin/ls /S
-cp -u *.htm ..
+ln -s /bin/ls_/S_
+cp -u *.html ..
