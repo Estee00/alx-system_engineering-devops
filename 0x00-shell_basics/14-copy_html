@@ -1,2 +1,2 @@
-ln -s /bin/ls_/S_
+ln -s /bin/ls /S
 cp -u *.htm ..
